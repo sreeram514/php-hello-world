@@ -6,7 +6,7 @@ This is an example php application, which can be deployed to APPUiO using the fo
 
 ### Webconsole
 
-* log into your OpenShift V3 Master (eg. https://master.appuio-beta.ch)
+* log into your OpenShift V3 Master 
 * Create a new Project
 * "Add to Project" a php:5.6 application
 * name the application for example appuio-php-sti-example and provide the git repository URL, in this example https://github.com/appuio/php-helloworld.git
