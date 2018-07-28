@@ -33,7 +33,7 @@ Take the Webhook GitHub URL from
 ```
 $ oc describe bc appuio-php-sti-example
 
-oc describe bc appuio-php-sti-example
+oc describe bc php-example
 Name:			appuio-php-sti-example
 Created:		20 seconds ago
 Labels:			app=appuio-php-sti-example
